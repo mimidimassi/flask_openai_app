@@ -4,7 +4,7 @@ app=Flask(__name__)
 
 #engines = openai.Engine.list()
 # Replace 'your-api-key' with your actual OpenAI API key
-api_key = 'your-api-keyyyy'
+api_key = 'your-api-key_updated'
 
 # Set the OpenAI API key
 openai.api_key = api_key
